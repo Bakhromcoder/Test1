@@ -14,4 +14,6 @@ func main() {
 	f := a + b
 
 	fmt.Println("Natija:", f)
+
+	fmt.Println("Bek:")
 }
